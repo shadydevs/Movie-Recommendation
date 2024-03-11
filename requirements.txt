@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-surprise
+pillow
+regex
+urllib3
+tk
